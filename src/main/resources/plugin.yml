@@ -1,0 +1,4 @@
+name: EventMessageSetter
+main: de.blu.eventmessagesetter.EventMessageSetter
+version: 1.0.0
+author: Blu
